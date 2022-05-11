@@ -1,0 +1,5 @@
+movie: Lord Of The Rings
+serial: How I Meet Your Mother
+food: tangerines
+season: spring
+country: Portugal

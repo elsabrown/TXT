@@ -1,0 +1,15 @@
+s1: git
+s2: js
+s3: postman
+s4: devTools
+s5: charles
+s6: fiddler
+s7: API testing
+s8: Web testing
+s9: Mobile testing
+s10: SQL
+s11: PostreSQL
+s12: Redis
+s13: Jmeter
+s14: terminal
+s15: test documentation
